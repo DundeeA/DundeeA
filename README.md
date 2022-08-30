@@ -8,12 +8,10 @@ My name is dundee, I'm a self-taught web developer currently practicing front-en
 
 ## Things I code with
  
-**Javascript**
-**Jquery**
-**CSS**
-**Html5**
-
-
+- Html5
+- CSS
+- Javascript
+- Jquery
 
 ## My blogs
 
