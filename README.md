@@ -4,6 +4,7 @@ I'm a self-taught web developer currently practicing front-end development but i
  
 - Html5
 - CSS
+- SASS
 - Javascript
 - Jquery
 
