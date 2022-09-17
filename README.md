@@ -1,10 +1,3 @@
-<h1 align="center">Hey, welcome to my github 👋</h1>
-
-<p align="center"><img align="center" width="500" height="30" src="https://i.imgur.com/35OTdci.gif"></p>
-
- <p align="center">I'm a self-taught web developer currently practicing front-end development but interested in learning full-stack. </p>
-   
-   
 ## Things I code with
 - Html5
 - CSS
