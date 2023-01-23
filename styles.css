@@ -32,18 +32,26 @@ font-weight: 600;
 }
 
 
+.nav-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100vw;
+    background-color: #FFFEED;
+    position: fixed; 
+}
+ 
+
 nav{
     display: flex;
-    flex-direction: row;
+    flex-direction: row; 
     align-items: center;
     justify-content: space-between;
  
-    width: 90vw;
-    padding-left: 5vw;
-    padding-right: 5vw;
+    width: 90%;
+    padding: 0;
     margin: 0 0 0 0; 
-    background-color: #FFFEED;
-    position: fixed;
 }
  
 nav .nav-btn{
