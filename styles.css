@@ -39,7 +39,11 @@ nav{
     justify-content: space-between;
  
     width: 90vw;
-    margin: 2.8vh 0 0 0;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    margin: 0 0 0 0; 
+    background-color: #FFFEED;
+    position: fixed;
 }
  
 nav .nav-btn{
@@ -119,4 +123,11 @@ margin-top: -3vh;
     font-size: 13px;  
 
     background: linear-gradient(#E8770E, #F1694A);
+}
+
+
+
+
+.info-section{
+    height: 200vh;
 }
