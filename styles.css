@@ -135,10 +135,6 @@ margin-top: -3vh;
 
 
 
-.info-section{
-    height: 200vh;
-}
-
 
 .info-card{
 display: flex;
@@ -160,4 +156,20 @@ margin: 80px 0 0 0;
     letter-spacing: 2px;
     font-size: 12px;
     width: 92vw;
+}
+
+
+
+.projects-section{
+    position: relative;
+}
+
+
+
+.projects-section h4{ 
+   position: absolute;
+   top: 1vh;
+   left: 23vw;
+    color: white;
+    font-size: 40px;
 }
