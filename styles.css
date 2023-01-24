@@ -167,7 +167,6 @@ button {
 }
 
 .projects-section img {
-  transform: scaleX(-1);
   width: 100%;
 }
 
