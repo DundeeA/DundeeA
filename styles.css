@@ -38,6 +38,7 @@ header {
   width: 100vw;
   background-color: #fffeed;
   position: fixed;
+  z-index: 1;
 }
 
 nav {
@@ -154,6 +155,7 @@ nav a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 5vh;
   width: 100vw;
   position: relative;
 }
