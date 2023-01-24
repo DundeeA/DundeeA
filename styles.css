@@ -167,6 +167,7 @@ button {
 }
 
 .projects-section img {
+  transform: scaleX(-1);
   width: 100%;
 }
 
@@ -200,6 +201,10 @@ button {
   margin-top: 5vh;
   width: 100vw;
   position: relative;
+}
+
+.contact-section img{
+    width: 100%;
 }
 
 .contact-section h4 {
