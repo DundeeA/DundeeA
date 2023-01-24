@@ -67,7 +67,6 @@ nav a {
   text-decoration: none;
 }
 
-
 /*Hero section*/
 
 #hero {
@@ -98,7 +97,7 @@ nav a {
   width: 100%;
   margin-top: -7vh;
 }
- 
+
 #hero p {
   font-weight: 600;
   font-size: 16px;
@@ -133,7 +132,6 @@ nav a {
   background: linear-gradient(#e8770e, #f1694a);
 }
 
-
 /*Info Section*/
 
 .info-card {
@@ -157,9 +155,6 @@ nav a {
   width: 92vw;
 }
 
-
-
-
 /*Project section*/
 
 .projects-section {
@@ -167,12 +162,12 @@ nav a {
   flex-direction: column;
   align-items: center;
   margin-top: 5vh;
-  width: 100vw; 
+  width: 100vw;
   position: relative;
 }
 
-.projects-section img{
-    width: 100%;
+.projects-section img {
+  width: 100%;
 }
 
 .projects-section h4 {
@@ -195,4 +190,27 @@ nav a {
 .project-card img {
   border-radius: 5%;
   max-width: 90vw;
+}
+
+/*Contact Section*/
+.contact-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5vh;
+  width: 100vw;
+  position: relative;
+}
+
+.contact-section h4 {
+  position: absolute;
+  top: 1vh;
+  left: 23vw;
+  color: white;
+  font-size: 40px;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
 }
